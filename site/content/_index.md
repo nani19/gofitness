@@ -1,7 +1,4 @@
-<div class="xc449bad4854773ff" data-zone="ed42180447f74e29adf36887c7ac4d82" style="width:300px;height:250px;display: inline-block;margin: 0 auto"></div>
-
----
-    
+---    
 title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
