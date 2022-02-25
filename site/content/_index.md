@@ -1,8 +1,8 @@
 ---  
 title: "Great coffee with a conscience"
-iframe: data-aa='1942201' src='//ad.a-ads.com/1942201?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'>
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
+&lt;iframe data-aa=&#039;1942201&#039; src=&#039;//ad.a-ads.com/1942201?size=728x90&#039; style=&#039;width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;&#039;&gt;&lt;/iframe&gt;
 blurb:
     heading: Why Kaldi?<div class="xc449bad4854773ff" data-zone="ed42180447f74e29adf36887c7ac4d82" style="width:300px;height:250px;display: inline-block;margin: 0 auto"></div>
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
