@@ -1,6 +1,6 @@
 ---  
 title: "Great coffee with a conscience"
-iframe:<iframe data-aa='1942201' src='//ad.a-ads.com/1942201?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+iframe: data-aa='1942201' src='//ad.a-ads.com/1942201?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'>
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
